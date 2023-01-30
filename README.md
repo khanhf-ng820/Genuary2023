@@ -2,7 +2,7 @@
 My code art attempts in Processing for #genuary2023.
 
 Prompts done:
-* JAN. 1: Perfect loop / Infinite loop / endless GIFs
+* JAN. 1: Perfect loop / Infinite loop / endless GIFs #genuary1
 * JAN. 19: Black and white #genuary19
 * JAN. 30: Minimalism #genuary30
 
