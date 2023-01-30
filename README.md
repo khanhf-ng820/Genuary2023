@@ -1,5 +1,5 @@
 # Genuary2023
-My code art attempts for #genuary2023.
+My code art attempts in Processing for #genuary2023.
 
 Prompts done:
 * JAN. 30: Minimalism #genuary30
