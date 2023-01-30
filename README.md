@@ -2,6 +2,7 @@
 My code art attempts in Processing for #genuary2023.
 
 Prompts done:
+* JAN. 19: Black and white #genuary19
 * JAN. 30: Minimalism #genuary30
 
 ## About GENUARY2023:
