@@ -2,6 +2,7 @@
 // #genuary7
 
 // JAN. 7: Sample a color palette from your favorite movie/album cover
+// Image from album cover of "In Rainbows" by Radiohead.
 // Code by: khanhf-ng820
 
 PImage inRainbows;
