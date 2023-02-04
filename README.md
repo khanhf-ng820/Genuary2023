@@ -2,13 +2,14 @@
 My code art attempts in Processing for #genuary2023.
 
 Prompts done:
-* JAN. 1: Perfect loop / Infinite loop / endless GIFs #genuary1
-* JAN. 2: Made in 10 minutes #genuary2
-* JAN. 3: Glitch art #genuary3
-* JAN. 4: Intersections #genuary4
-* JAN. 7: Sample a color palette from your favorite movie/album cover #genuary7
-* JAN. 19: Black and white #genuary19
-* JAN. 30: Minimalism #genuary30
+* JAN. 1: Perfect loop / Infinite loop / endless GIFs
+* JAN. 2: Made in 10 minutes
+* JAN. 3: Glitch art
+* JAN. 4: Intersections
+* JAN. 7: Sample a color palette from your favorite movie/album cover
+* JAN. 9: Plants
+* JAN. 19: Black and white
+* JAN. 30: Minimalism
 
 ## About GENUARY2023:
 
