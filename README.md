@@ -11,6 +11,7 @@ Prompts done:
 * JAN. 11: Suprematism
 * JAN. 12: Tessellation
 * JAN. 19: Black and white
+* JAN. 22: Shadows
 * JAN. 30: Minimalism
 
 ## About GENUARY2023:
