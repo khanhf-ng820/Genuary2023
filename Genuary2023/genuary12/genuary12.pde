@@ -2,7 +2,7 @@
 // #genuary12
 
 // JAN. 12: Tessellation
-// https://en.wikipedia.org/wiki/Snub_square_tiling
+// https://en.wikipedia.org/wiki/Rhombitrihexagonal_tiling
 // Code by: khanhf-ng820
 
 int hexRadius = 50;
