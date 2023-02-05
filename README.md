@@ -8,6 +8,7 @@ Prompts done:
 * JAN. 4: Intersections
 * JAN. 7: Sample a color palette from your favorite movie/album cover
 * JAN. 9: Plants
+* JAN. 11: Suprematism
 * JAN. 19: Black and white
 * JAN. 30: Minimalism
 
