@@ -25,9 +25,7 @@ void draw() {
     pop();
   }
   
-  if (xoff > 50) {
-    xadd *= -1;
-  } else if (xoff < -50) {
+  if (xoff > 50 || xoff < -50) {
     xadd *= -1;
   }
   xoff += xadd;
