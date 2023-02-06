@@ -10,6 +10,7 @@ Prompts done:
 * JAN. 9: Plants
 * JAN. 11: Suprematism
 * JAN. 12: Tessellation
+* JAN. 17: A grid inside a grid inside a grid
 * JAN. 19: Black and white
 * JAN. 22: Shadows
 * JAN. 23: More Moiré
